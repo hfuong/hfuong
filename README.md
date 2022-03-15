@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm a data scientist who loves learning new things about the world, including (but not limited to) basketball 🏀 and animals 🐒. Most recently, I was a Data Science Intern with the OKC Thunder (NBA). 
+I'm a data editor who loves learning new things about the world, including (but not limited to) basketball 🏀 and animals 🐒. Before that, I was a Data Science Intern with the OKC Thunder (NBA). 
 
 - 👩‍🎓 I'm formally trained as an ecologist (Ph.D. at Columbia 🦁, B.S. x2 at UCLA 🐻). I studied the social behavior and antipredator responses of blue monkeys, yellow-bellied marmots, and skinks 🦎. My research focused largely on animal social networks and relationships 👯‍♀️. 
 - 📘 Most of my repositories are currently private as the work is being prepared for publication. 
