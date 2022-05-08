@@ -1,7 +1,8 @@
 ## Hey there! 👋
 
-I'm a data editor who loves learning new things about the world, including (but not limited to) basketball 🏀 and animals 🐒. Before that, I was a Data Science Intern with the OKC Thunder (NBA). 
+I'm a scientist who loves learning new things about the world, including (but not limited to) basketball 🏀 and animals 🐒. 
 
+- 💼 Currently the [Data Editor at FiveThirtyEight](https://fivethirtyeight.com/contributors/holly-fuong/?author_name=holly-fuong). Before that, I was a data science intern with the OKC Thunder (NBA). 
 - 👩‍🎓 I'm formally trained as an ecologist (Ph.D. at Columbia 🦁, B.S. x2 at UCLA 🐻). I studied the social behavior and antipredator responses of blue monkeys, yellow-bellied marmots, and skinks 🦎. My research focused largely on animal social networks and relationships 👯‍♀️. 
 - 📘 Most of my repositories are currently private as the work is being prepared for publication. 
 - ⚡ Fun fact: I lived in a rain forest for 15 months straight and somehow avoided getting malaria 🦟. 
